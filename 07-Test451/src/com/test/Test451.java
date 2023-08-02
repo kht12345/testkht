@@ -6,6 +6,8 @@ public class Test451 {
 		System.out.println("Hello World!!!");
 		
 		System.out.println("Hello KHT!!!");
+		
+		System.out.println("Hello KHT1!!!");
 
 	}
 }
